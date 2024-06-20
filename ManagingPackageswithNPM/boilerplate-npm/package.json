@@ -1,0 +1,20 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"author": "Ömer ÖZCAN",
+	"description": "A project that does something awesome",
+	"keywords": [ "freecodecamp", "related", "words" ],
+	"license": "MIT",
+	"version": "0.0.1",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+	}
+}
